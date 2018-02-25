@@ -15,4 +15,4 @@ Filters >> *Map* >> Tile Splitter...
 > C:\Documents and Settings\yourname\.gimp-2.8\plug-ins  
 
 If needed, set file permissions to allow script execution:  
-`chmod +x eawb.py`  
+`chmod +x tile_splitter.py`  
