@@ -4,6 +4,8 @@
 Python-Fu -- Tile Splitter for GIMP  
 Filters >> *Map* >> Tile Splitter...  
 
+![tile_splitter.png](https://raw.githubusercontent.com/doyousketch2/tile_splitter/master/tile_splitter.png)  
+
 **Place script in directory that suits your OS:**  
 
 > /home/yourname/.gimp-2.8/plug-ins  
@@ -16,5 +18,3 @@ Filters >> *Map* >> Tile Splitter...
 
 If needed, set file permissions to **allow script execution:**  
 `chmod +x tile_splitter.py`  
-
-![tile_splitter.png](https://raw.githubusercontent.com/doyousketch2/tile_splitter/master/tile_splitter.png)  
