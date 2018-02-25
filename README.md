@@ -14,5 +14,5 @@ Filters >> *Map* >> Tile Splitter...
 > C:\Program Files\GIMP 2\share\gimp\2.0\plug-ins  
 > C:\Documents and Settings\yourname\.gimp-2.8\plug-ins  
 
-If needed, set file permissions to allow script execution:  
+If needed, set file permissions to **allow script execution:**  
 `chmod +x tile_splitter.py`  
